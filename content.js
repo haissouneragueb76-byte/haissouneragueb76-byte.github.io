@@ -9,35 +9,6 @@ window.portfolioConfig = {
   "cvUrl": "documents/cv-haissoune-ragueb-fr.pdf"
 };
 window.portfolioProjects = {
-  "cbam": {
-    "title": "L’impact du CBAM sur les exportations marocaines",
-    "kind": "MÉMOIRE DE MASTER · 2025–2026",
-    "authors": "Haissoune Ragueb et Oussama Elattouga. Université Mohammed V de Rabat.",
-    "file": "documents/memoire-cbam.pdf",
-    "details": [
-      [
-        "Problématique",
-        "Comment le mécanisme d’ajustement carbone aux frontières de l’Union européenne affecte-t-il la compétitivité des exportations marocaines ?"
-      ],
-      [
-        "Données",
-        "Matrice de comptabilité sociale du Maroc de 2019 ; exportations de biens issues de Trade Map et services issus de l’OCDE.Stat ; intensités carbone adaptées de Morchid et al. (2024), mobilisant notamment EORA."
-      ],
-      [
-        "Méthode",
-        "Modèle d’équilibre général calculable statique, mono-pays et multisectoriel. Comparaison des périmètres sectoriels, des émissions directes et indirectes, de trois prix carbone européens (50, 70 et 100 €/tCO₂) et de scénarios de taxe carbone domestique."
-      ],
-      [
-        "Résultats simulés",
-        "L’impact global reste relativement limité dans le périmètre étudié du CBAM, avec des vulnérabilités sectorielles marquées, notamment dans l’énergie et la chimie. L’ajout des émissions indirectes accroît l’exposition. Une taxe carbone domestique pourrait réduire les transferts nets vers l’UE, sous l’hypothèse de sa reconnaissance intégrale."
-      ],
-      [
-        "Compétences mobilisées",
-        "Structuration de données économiques, analyse sectorielle, calibration, comparaison de scénarios et interprétation des résultats."
-      ]
-    ],
-    "note": "Source : résumé et chapitres 3–4 du mémoire. Résultats conditionnels aux paramètres et hypothèses d’un modèle statique calibré sur 2019."
-  },
   "cbdc": {
     "title": "E-Dirham face au cash et aux banques commerciales : une approche DSGE (TANK)",
     "kind": "ARTICLE DE RECHERCHE · NOVEMBRE 2025",
